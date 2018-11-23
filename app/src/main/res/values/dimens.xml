@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_0">0dp</dimen>
+    <dimen name="first_textview_dim">75dp</dimen>
+    <dimen name="topmargin_edittext">15dp</dimen>
+    <dimen name="bottommargin_edittext">15dp</dimen>
+    <dimen name="view_dimension">2dp</dimen>
+    <dimen name="dimension_16">16dp</dimen>
+</resources>
