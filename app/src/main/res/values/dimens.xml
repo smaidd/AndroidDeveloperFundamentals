@@ -6,4 +6,5 @@
     <dimen name="bottommargin_edittext">15dp</dimen>
     <dimen name="view_dimension">2dp</dimen>
     <dimen name="dimension_16">16dp</dimen>
+    <dimen name="padding_2ndLinear">8dp</dimen>
 </resources>
