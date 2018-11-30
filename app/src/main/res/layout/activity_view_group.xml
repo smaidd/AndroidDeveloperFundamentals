@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".week3.ViewGroupActivity">
+    tools:context="com.example.mgmcartofior.androiddeveloperfundamentals.week3.ViewGroupActivity">
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"

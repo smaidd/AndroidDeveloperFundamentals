@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="@dimen/padding_mainAct"
-    tools:context=".week3.LoginActivity">
+    tools:context="com.example.mgmcartofior.androiddeveloperfundamentals.week3.LoginActivity">
     <TextView
         android:id="@+id/logintext"
         android:layout_width="match_parent"
