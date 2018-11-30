@@ -4,7 +4,12 @@
     <dimen name="first_textview_dim">75dp</dimen>
     <dimen name="topmargin_edittext">15dp</dimen>
     <dimen name="bottommargin_edittext">15dp</dimen>
-    <dimen name="view_dimension">2dp</dimen>
+    <dimen name="view_dimension">4dp</dimen>
     <dimen name="dimension_16">16dp</dimen>
     <dimen name="padding_2ndLinear">8dp</dimen>
+    <dimen name="padding_mainAct">12dp</dimen>
+    <dimen name="text_size">25sp</dimen>
+    <dimen name="margintop_8dp">8dp</dimen>
+    <dimen name="space_128">128dp</dimen>
+    <dimen name="space_64">64dp</dimen>
 </resources>

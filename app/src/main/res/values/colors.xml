@@ -9,4 +9,6 @@
     <color name="orange_edittext">#FFA500</color>
     <color name="powderblue">#B0E0E6</color>
     <color name="grey">#808080</color>
+    <color name="red">#F00004</color>
+    <color name="albastru">#6495ED</color>
 </resources>

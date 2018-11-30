@@ -11,4 +11,9 @@
     <string name="textview_text">Auto backup</string>
     <string name="radiobutton_notext">NO</string>
     <string name="radiobutton_yestext">YES</string>
+    <string name="i_accept_tmc">I accept TMC</string>
+    <string name="submit">SUBMIT</string>
+    <string name="login">LOGIN</string>
+    <string name="longText">dasdahsdhashdahjskdhakjsdhaksjdhaksjdhakjsdhakjsaskdalsda</string>
+
 </resources>

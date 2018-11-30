@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/padding_mainAct"
+    tools:context=".week3.LoginActivity">
+    <TextView
+        android:id="@+id/logintext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/login"
+        android:textSize="@dimen/text_size"
+        android:textColor="@color/red"/>
+    <EditText
+        android:layout_marginTop="@dimen/margintop_8dp"
+        android:id="@+id/emailEdit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Email"
+        android:inputType="textEmailAddress"/>
+    <EditText
+        android:id="@+id/phoneEdit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Phone"
+        android:inputType="phone"/>
+    <CheckBox
+        android:id="@+id/checkbox_termeni"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/i_accept_tmc"/>
+    <Button
+        android:id="@+id/buttonSubmit"
+        android:onClick="btnOnClick"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/albastru"
+        android:text="@string/submit"
+        android:textColor="@color/red"/>
+    <TextView
+        android:id="@+id/textview_res"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
