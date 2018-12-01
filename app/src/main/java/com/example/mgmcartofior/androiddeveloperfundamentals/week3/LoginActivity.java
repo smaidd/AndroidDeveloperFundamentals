@@ -7,7 +7,8 @@ import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.example.mgmcartofior.androiddeveloperfundamentals.R;
+import com.example.alex.androidfundamentals.R;
+
 
 public class LoginActivity extends AppCompatActivity {
     private EditText mEditTextEmail;
@@ -15,6 +16,7 @@ public class LoginActivity extends AppCompatActivity {
     private CheckBox mCheckBoxAccept;
     private TextView mTextViewResult;
     private Autenthificate mAutenth;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

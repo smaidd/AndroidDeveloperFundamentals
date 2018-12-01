@@ -3,7 +3,8 @@ package com.example.mgmcartofior.androiddeveloperfundamentals.week3;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.example.mgmcartofior.androiddeveloperfundamentals.R;
+import com.example.alex.androidfundamentals.R;
+
 
 public class ViewGroupActivity extends AppCompatActivity {
 

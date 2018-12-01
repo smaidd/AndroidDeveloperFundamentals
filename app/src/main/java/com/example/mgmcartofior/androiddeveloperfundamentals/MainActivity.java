@@ -3,6 +3,8 @@ package com.example.mgmcartofior.androiddeveloperfundamentals;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.example.alex.androidfundamentals.R;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
