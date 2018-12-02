@@ -12,4 +12,8 @@
     <dimen name="margintop_8dp">8dp</dimen>
     <dimen name="space_128">128dp</dimen>
     <dimen name="space_64">64dp</dimen>
+    <dimen name="dim_60">60dp</dimen>
+    <dimen name="dim_350">350dp</dimen>
+    <dimen name="dim_300">300dp</dimen>
+    <dimen name="dim_32">32dp</dimen>
 </resources>

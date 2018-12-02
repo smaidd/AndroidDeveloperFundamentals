@@ -19,6 +19,9 @@
 
         </activity>
         <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week3.PracticeWeek3Activity">
+
+        </activity>
+        <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week3.CodeChallengeWeek3">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
