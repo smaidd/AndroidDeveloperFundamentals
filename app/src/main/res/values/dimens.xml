@@ -16,4 +16,5 @@
     <dimen name="dim_350">350dp</dimen>
     <dimen name="dim_300">300dp</dimen>
     <dimen name="dim_32">32dp</dimen>
+    <dimen name="dim_80">80</dimen>
 </resources>
