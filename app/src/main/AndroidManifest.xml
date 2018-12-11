@@ -15,9 +15,10 @@
         <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week3.WebViewActivity" />
         <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week3.SpinnerActivity" />
         <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week3.PracticeWeek3Activity" />
-        <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week3.CodeChallengeWeek3">
-        </activity>
+        <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week3.CodeChallengeWeek3"></activity>
         <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week3.Challange3Week3">
+        </activity>
+        <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week4_code_challenge4">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
