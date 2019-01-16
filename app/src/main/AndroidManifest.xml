@@ -31,7 +31,7 @@
         <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week6.CommListenerActivity" />
         <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week7.Main2Activity">
         </activity>
-        <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week7.CardViewHobbies">
+        <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week7.week7_cc.CardViewHobbies">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

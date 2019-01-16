@@ -1,4 +1,4 @@
-package com.example.mgmcartofior.androiddeveloperfundamentals.week7;
+package com.example.mgmcartofior.androiddeveloperfundamentals.week7.week7_cc;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
