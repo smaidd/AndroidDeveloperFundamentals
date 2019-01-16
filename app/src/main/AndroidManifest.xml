@@ -3,6 +3,7 @@
     package="com.example.alex.androidfundamentals">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA"/>
 
     <application
         android:allowBackup="true"
@@ -15,16 +16,27 @@
         <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week3.WebViewActivity" />
         <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week3.SpinnerActivity" />
         <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week3.PracticeWeek3Activity" />
-        <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week3.CodeChallengeWeek3">
-        </activity>
-        <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week3.Challange3Week3">
+        <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week3.CodeChallengeWeek3" />
+        <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week3.Challange3Week3" />
+        <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week4.RecycleViewActivity" />
+        <activity
+            android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week5.LifeCycleActivity"
+            android:label="firstActivity" />
+        <activity
+            android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week5.LifeCycle2Activity"
+            android:label="SecondActivity" />
+        <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week6.StaticActivity" />
+        <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week6.DinamicFragmentActivity" />
+        <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week6.CheckNumberBundle"></activity>
+        <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week6.CommListenerActivity" />
+        <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week7.Main2Activity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
+        <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week7.CardViewHobbies"></activity>
     </application>
 
 </manifest>
