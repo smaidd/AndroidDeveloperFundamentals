@@ -10,6 +10,6 @@ public class CardViewHobbies extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_card_view_hobbies);
+        setContentView(R.layout.hobbies_activity);
     }
 }

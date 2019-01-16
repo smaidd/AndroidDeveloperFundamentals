@@ -18,4 +18,5 @@
     <dimen name="dim_32">32dp</dimen>
     <dimen name="dim_80">80</dimen>
     <dimen name="dimension_120dp">120dp</dimen>
+    <dimen name="dim_24">24dp</dimen>
 </resources>

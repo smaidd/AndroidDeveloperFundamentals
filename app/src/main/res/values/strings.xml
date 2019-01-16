@@ -25,5 +25,9 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="send_numbers">Send Numbers</string>
+    <string name="hobbie">Unul dintre hobbiuri meu este fotbalul</string>
+    <string name="hobbie_text">Fotbalul este hobbiul meu deoarece este un joc de echipa si in acelasi timp un joc unde trebuie sa pui suflet</string>
+    <string name="hobbie_bass">Alt hobbi este cantatul la chitara bass</string>
+    <string name="bass_guitar">Cant la bass de la varsta de 14 ani. Sa canti la un instrument muzical este ceva nemaipomenit, danduti o anumita senzatie.</string>
 
 </resources>
