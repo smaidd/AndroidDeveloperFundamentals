@@ -18,7 +18,6 @@
     <string name="i_m_accepting_t_c"><![CDATA[I\'m accepting T\'&\'C]]></string>
     <string name="scrollview_text">A view group that allows the view hierarchy placed within it to be scrolled. Scroll view may have only one direct child placed within it. To add multiple views within the scroll view, make the direct child you add a view group, for example LinearLayout, and place additional views within that LinearLayout.</string>
     <string name="spinner_text">This is a spinner</string>
-<<<<<<< HEAD
     <string name="share_android">Share in Android</string>
     <string name="openwebsites">OpenWebSites</string>
     <string name="getsum">getSum</string>
@@ -26,14 +25,5 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="send_numbers">Send Numbers</string>
-=======
-    <string name="sarbatori_fericite">Sarbatori fericite!</string>
-    <string name="din_partea_lui_alex">Din partea lui Alex</string>
-    <string name="la_multi_ani_fericiti">La multi ani fericiti,</string>
-    <string name="alaturi_de_cei_dragi">Alaturi de cei dragi</string>
-    <string name="toate_cele_bune">Toate cele bune!</string>
-    <string name="let_it_snow">Let it snow!</string>
-    <string name="gingles_bells">Gingles Bells</string>
->>>>>>> 268e535d21bb3574fea647f18ba7d799674d8cf9
 
 </resources>

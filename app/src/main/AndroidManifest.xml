@@ -16,7 +16,6 @@
         <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week3.WebViewActivity" />
         <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week3.SpinnerActivity" />
         <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week3.PracticeWeek3Activity" />
-<<<<<<< HEAD
         <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week3.CodeChallengeWeek3" />
         <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week3.Challange3Week3" />
         <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week4.RecycleViewActivity" />
@@ -31,12 +30,6 @@
         <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week6.CheckNumberBundle"></activity>
         <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week6.CommListenerActivity" />
         <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week7.Main2Activity">
-=======
-        <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week3.CodeChallengeWeek3"></activity>
-        <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week3.Challange3Week3">
-        </activity>
-        <activity android:name="com.example.mgmcartofior.androiddeveloperfundamentals.week4_code_challenge4">
->>>>>>> 268e535d21bb3574fea647f18ba7d799674d8cf9
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
